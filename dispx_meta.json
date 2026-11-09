@@ -1,0 +1,14 @@
+{
+  "name": "DISPLX",
+  "symbol": "DX",
+  "description": "DISPLX. Display test coin - single pool, real trades, persistent metadata. 📡",
+  "image": "https://raw.githubusercontent.com/vex1privmain/displx-meta/main/dispx.png",
+  "extensions": {
+    "coingecko": {
+      "contract": null
+    },
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  }
+}
