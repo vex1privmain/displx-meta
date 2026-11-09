@@ -1,0 +1,14 @@
+{
+  "name": "DISPLX2",
+  "symbol": "DX2",
+  "description": "DISPLX2. Mirror test - 1B supply, single pool, real trades. 📡",
+  "image": "https://raw.githubusercontent.com/vex1privmain/displx-meta/main/dispx.png",
+  "extensions": {
+    "coingecko": {
+      "contract": null
+    },
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  }
+}
