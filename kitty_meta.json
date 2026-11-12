@@ -1,11 +1,11 @@
 {
   "name": "KITTY",
   "symbol": "KITTY",
-  "description": "KITTY. The cat that got the crown. Collectible figure, 1B supply, one pool, real trades. \ud83d\udc31\ud83d\udc51",
+  "description": "KITTY. The cat that got the crown. Collectible figure, 1B supply, one pool, real trades. 🐱👑",
   "image": "https://raw.githubusercontent.com/vex1privmain/displx-meta/main/kitty.jpg",
   "extensions": {
+    "website": "https://raw.githubusercontent.com/vex1privmain/displx-meta/main/kitty_site.html",
     "twitter": "",
-    "telegram": "",
-    "website": ""
+    "telegram": ""
   }
 }
